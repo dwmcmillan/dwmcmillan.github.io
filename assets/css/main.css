@@ -3857,6 +3857,7 @@ input, select, textarea {
 .ty{
 	font-size: 48px;
 	color: #64ffda;
+	text-align: center;
 }
 
 .typ {
