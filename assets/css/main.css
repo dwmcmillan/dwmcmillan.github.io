@@ -3852,9 +3852,10 @@ input, select, textarea {
 .typage {
 	text-align: center;
 	font-size: 72px;
+	text-align: center;
 }
 
-.ty{
+.ty {
 	font-size: 48px;
 	color: #64ffda;
 	text-align: center;
