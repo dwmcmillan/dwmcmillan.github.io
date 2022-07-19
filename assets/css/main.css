@@ -3395,7 +3395,6 @@ input, select, textarea {
 		background-image: url(../../images/hero_slider.png);
 		border-bottom: 0 !important;
 		cursor: default;
-		height: 60vh;
 		margin-bottom: -3.25em;
 		max-height: 32em;
 		min-height: 22em;
