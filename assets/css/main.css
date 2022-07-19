@@ -3820,7 +3820,7 @@ input, select, textarea {
 			}
 		  }
 
-		  @media (max-width: 1310px) {
+		  @media (max-width: 1525px) {
 			.grid-container-logo {
 			flex-direction: column;
 			grid-template-columns: 1fr 1fr 1fr;
@@ -3829,7 +3829,7 @@ input, select, textarea {
 			}
 		  }
 
-		  @media (max-width: 982px) {
+		  @media (max-width: 1269px) {
 			.grid-container-logo {
 			flex-direction: column;
 			grid-template-columns: 1fr 1fr;
@@ -3838,7 +3838,7 @@ input, select, textarea {
 			}
 		  }
 
-		  @media (max-width: 655px) {
+		  @media (max-width: 839px) {
 			.grid-container-logo {
 			flex-direction: column;
 			grid-template-columns: 1fr;
