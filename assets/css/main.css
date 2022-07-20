@@ -3393,6 +3393,7 @@ input, select, textarea {
 		background-repeat: no-repeat;
 		background-size: cover;
 		background-image: url(../../images/hero_slider.png);
+		background-color: #0a192f;
 		border-bottom: 0 !important;
 		cursor: default;
 		margin-bottom: -3.25em;
